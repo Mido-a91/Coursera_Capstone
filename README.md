@@ -1,3 +1,3 @@
 # Coursera_Capstone
 
-This is the Coursera Capstone Project - Will later be moved to Portfolio
+Segmenting and Clustering Toronto using K means, and by retrieving Venues from Foursquare APIs - Visualizing On Follium Maps
